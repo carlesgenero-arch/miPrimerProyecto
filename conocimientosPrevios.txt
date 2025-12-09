@@ -1,0 +1,5 @@
+Conocimientos previos
+
+- conocimiento base en html
+- conocimiento base de CSS
+- conocimiento basde de Wordrpess
