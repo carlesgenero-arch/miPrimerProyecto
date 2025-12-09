@@ -2,3 +2,4 @@
 Objetivos Programa FULLSTACK
 
 - Aprender lenguajes de programación
+- Utilización de herramientas para la gestión de archivos y carpetas
